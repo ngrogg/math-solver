@@ -14,7 +14,7 @@ class quadForm{
 		quadForm();
 
 		// Function to set the array values
-		void setInputs(double a, double b, double c);
+		void setInputs(double aVal, double bVal, double cVal);
 
 		// Function to calculate the quadratic function(s)
 		void calculate();

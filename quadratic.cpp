@@ -10,10 +10,10 @@ quadForm::quadForm()
 {}
 
 // Function to set the array values
-void quadForm::setInputs(double a, double b, double c){
-	input_a = a;
-	input_b = b;
-	input_c = c;
+void quadForm::setInputs(double aVal, double bVal, double cVal){
+	input_a = aVal;
+	input_b = bVal;
+	input_c = cVal;
 }
 
 // Function to calculate the quadratic function(s)
